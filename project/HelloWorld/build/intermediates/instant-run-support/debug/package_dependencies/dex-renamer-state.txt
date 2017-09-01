@@ -1,0 +1,10 @@
+#Thu Mar 30 17:50:14 IDT 2017
+renamed.2=classes2.dex
+renamed.1=classes.dex
+renamed.0=classes3.dex
+base.2=C\:\\Users\\idoaz\\Desktop\\myo-android-sdk-0.10.0\\samples\\HelloWorld\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_d494e3fa76a5bd5c5249c316e681505eab955b60
+base.1=C\:\\Users\\idoaz\\Desktop\\myo-android-sdk-0.10.0\\samples\\HelloWorld\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_cc82301aad1b20a10d3d32906a8935e8fcda451b
+base.0=C\:\\Users\\idoaz\\Desktop\\myo-android-sdk-0.10.0\\samples\\HelloWorld\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_a1cb8ad0439c07cd33d67d06e40db2f44adb699a
+file.2=C\:\\Users\\idoaz\\Desktop\\myo-android-sdk-0.10.0\\samples\\HelloWorld\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_d494e3fa76a5bd5c5249c316e681505eab955b60\\classes.dex
+file.1=C\:\\Users\\idoaz\\Desktop\\myo-android-sdk-0.10.0\\samples\\HelloWorld\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_cc82301aad1b20a10d3d32906a8935e8fcda451b\\classes.dex
+file.0=C\:\\Users\\idoaz\\Desktop\\myo-android-sdk-0.10.0\\samples\\HelloWorld\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_a1cb8ad0439c07cd33d67d06e40db2f44adb699a\\classes.dex

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\idoaz\.android\build-cache\496e7090f06a30d44a7d52bc6b432d79260b43dc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8f11f56e350eacabf2273f646d981356eea0ed77">
+        <dex dex="C:\Users\idoaz\Desktop\myo-android-sdk-0.10.0\samples\HelloWorld\build\intermediates\pre-dexed\debug\classes_cc82301aad1b20a10d3d32906a8935e8fcda451b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\idoaz\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\idoaz\Desktop\myo-android-sdk-0.10.0\samples\HelloWorld\build\intermediates\pre-dexed\debug\support-v4-18.0.0_a1cb8ad0439c07cd33d67d06e40db2f44adb699a.jar" />
+    </item>
+
+</items>

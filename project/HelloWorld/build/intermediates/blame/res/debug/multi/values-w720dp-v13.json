@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\idoaz\\Desktop\\myo-android-sdk-0.10.0\\samples\\HelloWorld\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w720dp-v13\\values-w720dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 76,
+                    "endOffset": 127
+                },
+                "from": {
+                    "file": "C:\\Users\\idoaz\\.android\\build-cache\\496e7090f06a30d44a7d52bc6b432d79260b43dc\\output\\res\\values-w720dp\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 175,
+                        "endColumn": 76,
+                        "endOffset": 247
+                    }
+                }
+            }
+        ]
+    }
+]

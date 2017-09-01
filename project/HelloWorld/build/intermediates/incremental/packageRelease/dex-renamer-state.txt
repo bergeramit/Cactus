@@ -1,0 +1,4 @@
+#Fri Jun 02 15:14:13 IDT 2017
+base.0=C\:\\Users\\idoaz\\Desktop\\myo-android-sdk-0.10.0\\samples\\HelloWorld\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\idoaz\\Desktop\\myo-android-sdk-0.10.0\\samples\\HelloWorld\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main\\classes.dex

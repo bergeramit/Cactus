@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\idoaz\\Desktop\\myo-android-sdk-0.10.0\\samples\\HelloWorld\\build\\intermediates\\res\\merged\\release\\raw\\delete.mp3",
+        "source": "C:\\Users\\idoaz\\Desktop\\myo-android-sdk-0.10.0\\samples\\HelloWorld\\src\\main\\res\\raw\\delete.mp3"
+    },
+    {
+        "merged": "C:\\Users\\idoaz\\Desktop\\myo-android-sdk-0.10.0\\samples\\HelloWorld\\build\\intermediates\\res\\merged\\release\\raw\\newmessage.mp3",
+        "source": "C:\\Users\\idoaz\\Desktop\\myo-android-sdk-0.10.0\\samples\\HelloWorld\\src\\main\\res\\raw\\newmessage.mp3"
+    },
+    {
+        "merged": "C:\\Users\\idoaz\\Desktop\\myo-android-sdk-0.10.0\\samples\\HelloWorld\\build\\intermediates\\res\\merged\\release\\raw\\send.mp3",
+        "source": "C:\\Users\\idoaz\\Desktop\\myo-android-sdk-0.10.0\\samples\\HelloWorld\\src\\main\\res\\raw\\send.mp3"
+    }
+]
